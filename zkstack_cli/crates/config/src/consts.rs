@@ -25,7 +25,10 @@ pub const GATEWAY_FILE: &str = "gateway.yaml";
 /// Name of the gateway contracts file
 pub const GATEWAY_CHAIN_FILE: &str = "gateway_chain.yaml";
 /// Main repository for the ZKsync project
-pub const ZKSYNC_ERA_GIT_REPO: &str = "https://github.com/matter-labs/zksync-era";
+// pub const ZKSYNC_ERA_GIT_REPO: &str = "https://github.com/matter-labs/zksync-era";
+
+pub const ZKSYNC_ERA_GIT_REPO: &str = "https://github.com/DSHIVAAY-23/zksync-era";
+
 /// Name of the docker-compose file inside zksync repository
 pub const DOCKER_COMPOSE_FILE: &str = "docker-compose.yml";
 /// Path to the config file with mnemonic for localhost wallets
