@@ -72,8 +72,7 @@ pub(super) const MSG_NO_PORT_REALLOCATION_HELP: &str = "Do not reallocate ports"
 pub(super) const MSG_GENESIS_ARGS_HELP: &str = "Genesis options";
 pub(super) const MSG_OBSERVABILITY_HELP: &str = "Enable Grafana";
 pub(super) const MSG_OBSERVABILITY_PROMPT: &str = "Do you want to setup observability? (Grafana)";
-pub(super) const MSG_DEPLOY_ECOSYSTEM_PROMPT: &str =
-    "Do you want to deploy ecosystem contracts? (Not needed if you already have an existing one)";
+pub(super) const MSG_DEPLOY_ECOSYSTEM_PROMPT: &str ="Do you want to deploy ecosystem contracts? (Not needed if you already have an existing one)";
 pub(super) const MSG_L1_RPC_URL_PROMPT: &str = "What is the RPC URL of the L1 network?";
 pub(super) const MSG_DEPLOY_PAYMASTER_PROMPT: &str = "Do you want to deploy Paymaster contract?";
 pub(super) const MSG_VALIDIUM_TYPE_PROMPT: &str = "Select the Validium type";
